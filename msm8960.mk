@@ -127,7 +127,7 @@ PRODUCT_PACKAGES += \
 
 # DeviceSettings
 PRODUCT_PACKAGES += \
-    GalaxyS3Settings \
+    GalaxyS3Settings
 
 # GPS
 PRODUCT_PACKAGES += \
